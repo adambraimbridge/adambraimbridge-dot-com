@@ -22,7 +22,7 @@ export default function Home() {
         <h1 className="title">
           Adam
           <Link target="_blank" href="/">
-            <a>Braimbridge</a>
+            Braimbridge
           </Link>
         </h1>
 
@@ -56,7 +56,7 @@ export default function Home() {
             <h3>adam@braimbridge.com</h3>
             <p>Electronic mail</p>
           </div>
- 
+
           <div className="box" >
             <h3>🦄 heckless</h3>
             <p>Invite me to your Minecraft server</p>
